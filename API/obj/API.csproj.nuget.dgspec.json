@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\API\\API.csproj": {}
+    "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\api\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\API\\API.csproj": {
+    "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\API\\API.csproj",
+        "projectUniqueName": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\API\\API.csproj",
+        "projectPath": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\api\\API.csproj",
         "packagesPath": "C:\\Users\\TDawg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\API\\obj\\",
+        "outputPath": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TDawg\\AppData\\Roaming\\NuGet\\NuGet.Config"

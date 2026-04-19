@@ -147,3 +147,4 @@ C:\Users\TDawg\Desktop\CODE\DatingApp\api\bin\Debug\net10.0\runtimes\win-arm\nat
 C:\Users\TDawg\Desktop\CODE\DatingApp\api\bin\Debug\net10.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\Users\TDawg\Desktop\CODE\DatingApp\api\bin\Debug\net10.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\TDawg\Desktop\CODE\DatingApp\api\bin\Debug\net10.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\TDawg\Desktop\CODE\DatingApp\api\obj\Debug\net10.0\API.sourcelink.json

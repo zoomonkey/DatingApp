@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0ahO2X1otPQ=",
+  "dgSpecHash": "MY606FGFak0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\TDawg\\Desktop\\CODE\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\TDawg\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\TDawg\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.6\\microsoft.aspnetcore.openapi.10.0.6.nupkg.sha512",
